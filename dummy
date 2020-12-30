@@ -1,2 +1,3 @@
 #! bin/bash
 echo "welco to my program"
+echo "second line added"
